@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Priyanka's Portfolio
 
 A modern and interactive contact form designed for personal portfolios. This project features a galaxy video background, smooth animations, and allows users to send messages directly via email. Perfect for showcasing frontend development skills and web design creativity.
@@ -28,3 +29,6 @@ A modern and interactive contact form designed for personal portfolios. This pro
 ## License
 
 This project is **open-source**. You are free to use, modify, and distribute it for **personal or professional purposes**.  
+=======
+# My-Portfolio
+>>>>>>> e0911f59cfdcb242215f400111ec1c91df31b9f7

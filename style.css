@@ -52,10 +52,10 @@ html{
 }
 
 .profile-img {
-  width: 150px !important;       /* adjust this */
-  height: 150px !important;      /* same as width for circle */
+  width: 142px !important;       /* adjust this */
+  height: 142px !important;      /* same as width for circle */
   object-fit: cover;
-  border-radius: 2%;
+  border-radius: 5%;
   margin-bottom: 1rem;
 }
 
